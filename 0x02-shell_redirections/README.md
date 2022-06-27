@@ -4,3 +4,5 @@ script that displays /etc/passwd
 display ot last 10 lines.
 display the first ten lines.
 display third line of iacta
+task 7
+
