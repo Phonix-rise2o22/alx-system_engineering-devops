@@ -2,4 +2,5 @@ sript that prints “Hello, World”, followed by a new line to the standard out
 a script that displays a confused smile
 script that displays /etc/passwd
 display ot last 10 lines.
-display the first ten lines
+display the first ten lines.
+display third line of iacta
